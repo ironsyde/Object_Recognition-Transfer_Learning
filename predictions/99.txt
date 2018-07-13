@@ -1,0 +1,8 @@
+
+Evaluation time (1-image): 1.622s
+
+dandelion (score=0.69952)
+sunflowers (score=0.25301)
+tulips (score=0.04359)
+daisy (score=0.00272)
+roses (score=0.00117)
